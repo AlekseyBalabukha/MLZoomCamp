@@ -5,7 +5,7 @@ name = "pypi"
 
 [packages]
 numpy = "*"
-scikit-learn = "==1.0.2"
+scikit-learn = "==0.24.2"
 flask = "*"
 gunicorn = "*"
 requests = "*"
