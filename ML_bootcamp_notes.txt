@@ -1,1 +1,3 @@
-#mlzoomcamp   hashtag for projects on Linked in
+#mlzoomcamp
+#ML
+#machinelearning
